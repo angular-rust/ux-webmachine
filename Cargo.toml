@@ -1,11 +1,11 @@
 [package]
 name = "ux-webmachine"
-version = "0.2.3"
-authors = ["Ronald Holshausen <uglyog@gmail.com>"]
+version = "0.1.0"
+authors = ["Victor Dudochkin <dudochkin.victor@gmail.com>", "Ronald Holshausen <uglyog@gmail.com>"]
 description = "Port of the Ruby Webmachine library to Rust"
-documentation = "http://www.pact.io/reference/rust/webmachine-rust-0.1.0/webmachine_rust/"
-homepage = "https://github.com/uglyog/webmachine-rust"
-repository = "https://github.com/uglyog/webmachine-rust"
+documentation = "https://docs.rs/ux-webmachine"
+homepage = "https://github.com/angular-rust/ux-webmachine"
+repository = "https://github.com/angular-rust/ux-webmachine"
 readme = "README.md"
 keywords = ["webmachine"]
 license = "MIT"

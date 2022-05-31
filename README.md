@@ -2,7 +2,7 @@
 
 Asyncronous webmachines in Rust
 
->Fork of https://github.com/uglyog/ux-webmachine.git
+>Fork of https://github.com/uglyog/webmachine-rust.git
 
 Port of Webmachine-Ruby (https://github.com/webmachine/webmachine-ruby) to Rust.
 
